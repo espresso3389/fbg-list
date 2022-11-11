@@ -1,0 +1,12 @@
+{
+  "name": "fbg-list",
+  "version": "1.0.0",
+  "description": "Generating list of flowers for FBG project",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "main": "list.js",
+  "dependencies": {
+    "jsdom": "^20.0.2"
+  }
+}

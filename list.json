@@ -1,0 +1,2219 @@
+[
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/1",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_1_image.jpg",
+        "name": "ウメ‘雪月花（セツゲッカ）’",
+        "where": "花木園Ｂ",
+        "when": "1月",
+        "englishName": "Prunus mume Sieb.et Zucc. ‘Setsugetsuka’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/2",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_2_image.jpg",
+        "name": "サザンカ",
+        "where": "郷土樹木園",
+        "when": "11月,12月",
+        "englishName": "Camellia sasanqua Thunb.ex Murr.",
+        "family": "ツバキ科",
+        "genus": "ツバキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/3",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_3_image.jpg",
+        "name": "ニホンズイセン",
+        "where": "紅葉樹園",
+        "when": "1月,2月,12月",
+        "englishName": "Narcissus tazetta L. var.chinensis Roem.",
+        "family": "ヒガンバナ科",
+        "genus": "スイセン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/4",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_4_image.jpg",
+        "name": "ソシンロウバイ",
+        "where": "花木園Ｂ,庭木園",
+        "when": "1月,2月,12月",
+        "englishName": "Chimonanthus praecox (L.)Link ‘Concolor’",
+        "family": "ロウバイ科",
+        "genus": "ロウバイ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/5",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_5_image.jpg",
+        "name": "カンツバキ",
+        "where": "花木園Ｂ",
+        "when": "12月",
+        "englishName": "Camellia ×hiemalis Nakai",
+        "family": "ツバキ科",
+        "genus": "ツバキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/6",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_6_image.jpg",
+        "name": "ウメ",
+        "where": "花木園Ｂ,温室周辺",
+        "when": "2月",
+        "englishName": "Prunus mume Sieb.et Zucc.",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/7",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_7_image.jpg",
+        "name": "マンサク",
+        "where": "花壇・バラ園",
+        "when": "2月",
+        "englishName": "Hamamelis japonica Sieb.et Zucc.",
+        "family": "マンサク科",
+        "genus": "マンサク属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/8",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_8_image.jpg",
+        "name": "ジンチョウゲ",
+        "where": "水生植物園,花壇・バラ園",
+        "when": "2月,3月",
+        "englishName": "Daphne odora Thunb.",
+        "family": "ジンチョウゲ科",
+        "genus": "ジンチョウゲ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/9",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_9_image.jpg",
+        "name": "ヤブツバキ",
+        "where": "花木園Ｂ,郷土樹木園",
+        "when": "2月",
+        "englishName": "Camellia japonica L.",
+        "family": "ツバキ科",
+        "genus": "ツバキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/10",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_10_image.jpg",
+        "name": "フクジュソウ",
+        "where": "野草園",
+        "when": "2月",
+        "englishName": "Adonis amurensis Regel et Radde",
+        "family": "キンポウゲ科",
+        "genus": "フクジュソウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/11",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_11_image.jpg",
+        "name": "カンヒザクラ（寒緋桜）",
+        "where": "花壇・バラ園",
+        "when": "3月",
+        "englishName": "Prunus campanulata Maxim.",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/12",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_12_image.jpg",
+        "name": "オガタマノキ",
+        "where": "花壇・バラ園",
+        "when": "3月",
+        "englishName": "Michelia compressa (Maxim.)Sarg.",
+        "family": "モクレン科",
+        "genus": "オガタマノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/13",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_13_image.jpg",
+        "name": "サンシュユ",
+        "where": "郷土樹木園",
+        "when": "3月",
+        "englishName": "Cornus officinalis Sieb.et Zucc.",
+        "family": "ミズキ科",
+        "genus": "ミズキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/14",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_14_image.jpg",
+        "name": "ミツマタ",
+        "where": "庭木園",
+        "when": "3月",
+        "englishName": "Edgeworthia chrysantha Lindl.",
+        "family": "ジンチョウゲ科",
+        "genus": "ミツマタ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/15",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_15_image.jpg",
+        "name": "アオモジ",
+        "where": "郷土樹木園",
+        "when": "3月",
+        "englishName": "Litsea cubeba (Lour.)Pers.",
+        "family": "クスノキ科",
+        "genus": "ハマビワ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/16",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_16_image.jpg",
+        "name": "コブシ",
+        "where": "庭木園",
+        "when": "3月,4月",
+        "englishName": "Magnolia praecocissima Koidz.",
+        "family": "モクレン科",
+        "genus": "モクレン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/17",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_17_image.jpg",
+        "name": "モクレン",
+        "where": "庭木園",
+        "when": "3月,4月",
+        "englishName": "Magnolia quinquepeta (Buc’hoz)Dandy",
+        "family": "モクレン科",
+        "genus": "モクレン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/18",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_18_image.jpg",
+        "name": "ソメイヨシノ",
+        "where": "芝生広場",
+        "when": "4月",
+        "englishName": "Prunus ×yedoensis Matsum",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/19",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_19_image.jpg",
+        "name": "オオシマザクラ",
+        "where": "花木園Ｃ",
+        "when": "4月",
+        "englishName": "Prunus lannesiana (Carrire)E.H.Wils. var.speciosa(Koidz.)Makino",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/20",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_20_image.jpg",
+        "name": "サトザクラ‘鬱金（ウコン）’",
+        "where": "花木園Ａ",
+        "when": "4月",
+        "englishName": "Prunus lannesiana (Carrire)E.H.Wils. var.lannesiana‘Ukon’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/21",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_21_image.jpg",
+        "name": "サトザクラ‘御衣黄（ギョイコウ）’",
+        "where": "花木園Ａ",
+        "when": "4月",
+        "englishName": "Prunus lannesiana (Carrire)E.H.Wils. var.lannesiana‘Gyoiko’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/22",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_22_image.jpg",
+        "name": "ヒトツバタゴ",
+        "where": "郷土樹木園,花壇・バラ園",
+        "when": "4月",
+        "englishName": "Chionanthus retusus Lindl.et Paxt.",
+        "family": "モクセイ科",
+        "genus": "ヒトツバタゴ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/23",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_23_image.jpg",
+        "name": "ホオノキ",
+        "where": "庭木園",
+        "when": "4月",
+        "englishName": "Magnolia hypoleuca Sieb.et Zucc.",
+        "family": "モクレン科",
+        "genus": "モクレン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/24",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_24_image.jpg",
+        "name": "カリン",
+        "where": "水生植物園",
+        "when": "4月",
+        "englishName": "Pseudocydonia sinensis (Thouin)C.K.Schneid.",
+        "family": "バラ科",
+        "genus": "カリン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/25",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_25_image.jpg",
+        "name": "キリシマツツジ",
+        "where": "花木園Ａ",
+        "when": "4月",
+        "englishName": "Rhododendron obtusum (Lindl.)Planch.",
+        "family": "ツツジ科",
+        "genus": "ツツジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/26",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_26_image.jpg",
+        "name": "ヒラドツツジ",
+        "where": "花木園Ａ",
+        "when": "4月,5月",
+        "englishName": "Rhododendoron L.",
+        "family": "ツツジ科",
+        "genus": "ツツジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/27",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_27_image.jpg",
+        "name": "ハナミズキ",
+        "where": "芝生広場",
+        "when": "4月",
+        "englishName": "Cornus florida L.",
+        "family": "ミズキ科",
+        "genus": "ミズキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/28",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_28_image.jpg",
+        "name": "アカボシシャクナゲ",
+        "where": "モデル庭園",
+        "when": "4月",
+        "englishName": "Rhododendron hyperythrum Hayata",
+        "family": "ツツジ科",
+        "genus": "ツツジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/29",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_29_image.jpg",
+        "name": "ボタン",
+        "where": "ボタン・シャクヤク・竹園",
+        "when": "4月",
+        "englishName": "Paeonia suffruticosa Andr.",
+        "family": "ボタン科",
+        "genus": "ボタン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/30",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_30_image.jpg",
+        "name": "シャクヤク",
+        "where": "ボタン・シャクヤク・竹園",
+        "when": "5月",
+        "englishName": "Paeonia lactiflora Pall.",
+        "family": "ボタン科",
+        "genus": "ボタン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/31",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_31_image.jpg",
+        "name": "エゴノキ",
+        "where": "水生植物園,花壇・バラ園",
+        "when": "4月,5月",
+        "englishName": "Styrax japonicus Sieb.et Zucc. var.japonicus",
+        "family": "エゴノキ科",
+        "genus": "エゴノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/32",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_32_image.jpg",
+        "name": "ウツギ",
+        "where": "郷土樹木園",
+        "when": "5月,6月",
+        "englishName": "Deutzia crenata Sieb.et Zucc.",
+        "family": "ユキノシタ科",
+        "genus": "ウツギ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/33",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_33_image.jpg",
+        "name": "アヤメ",
+        "where": "水生植物園",
+        "when": "5月",
+        "englishName": "Iris sanguinea Donn ex Hornem.",
+        "family": "アヤメ科",
+        "genus": "アヤメ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/34",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_34_image.jpg",
+        "name": "ユリノキ",
+        "where": "芝生広場",
+        "when": "5月",
+        "englishName": "Liriodendron tulipifera L.",
+        "family": "モクレン科",
+        "genus": "ユリノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/35",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_35_image.jpg",
+        "name": "トチノキ",
+        "where": "庭木園",
+        "when": "5月",
+        "englishName": "Aesculus turbinata Blume",
+        "family": "トチノキ科",
+        "genus": "トチノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/36",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_36_image.jpg",
+        "name": "カルミア",
+        "where": "花壇・バラ園",
+        "when": "5月",
+        "englishName": "Kalmia latifolia L.",
+        "family": "ツツジ科",
+        "genus": "カルミア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/37",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_37_image.jpg",
+        "name": "ヤマボウシ",
+        "where": "モデル庭園,温室周辺",
+        "when": "6月",
+        "englishName": "Cornus kousa Buerg.ex Hance",
+        "family": "ミズキ科",
+        "genus": "ミズキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/38",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_38_image.jpg",
+        "name": "ハナショウブ",
+        "where": "水生植物園",
+        "when": "6月",
+        "englishName": "Iris ensata Thunb.",
+        "family": "アヤメ科",
+        "genus": "アヤメ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/39",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_39_image.jpg",
+        "name": "タイサンボク",
+        "where": "花壇・バラ園",
+        "when": "6月",
+        "englishName": "Magnolia grandiflora L.",
+        "family": "モクレン科",
+        "genus": "モクレン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/40",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_40_image.jpg",
+        "name": "キンシバイ",
+        "where": "水生植物園",
+        "when": "6月",
+        "englishName": "Hypericum patulum Thunb.",
+        "family": "オトギリソウ科",
+        "genus": "ヒペリクム属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/41",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_41_image.jpg",
+        "name": "ビヨウヤナギ",
+        "where": "モデル庭園,水生植物園",
+        "when": "6月",
+        "englishName": "Hypericum chinense L.",
+        "family": "オトギリソウ科",
+        "genus": "ヒペリクム属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/42",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_42_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/43",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_43_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/44",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_44_image.jpg",
+        "name": "ネムノキ",
+        "where": "花木園Ｃ,温室周辺,温室",
+        "when": "6月",
+        "englishName": "Albizia julibrissin Durazz.",
+        "family": "マメ科",
+        "genus": "ネムノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/45",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_45_image.jpg",
+        "name": "アジサイ",
+        "where": "花木園Ｃ,温室周辺,花壇・バラ園",
+        "when": "6月",
+        "englishName": "Hydrangea  macrophylla (Thunb.ex J.Murr.)Ser.",
+        "family": "ユキノシタ科",
+        "genus": "アジサイ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/46",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_46_image.jpg",
+        "name": "クチナシ",
+        "where": "庭木園,花壇・バラ園",
+        "when": "6月",
+        "englishName": "Gardenia jasminoides Ellis",
+        "family": "アカネ科",
+        "genus": "クチナシ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/47",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_47_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/48",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_48_image.jpg",
+        "name": "Nerium oleander L. var.indicum(Mill.)Degener et Greenwell",
+        "where": "6月,7月,8月",
+        "when": "キョウチクトウ",
+        "englishName": "キョウチクトウ科",
+        "family": "キョウチクトウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/49",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_49_image.jpg",
+        "name": "ムクゲ",
+        "where": "モデル庭園,ボタン・シャクヤク・竹園",
+        "when": "7月,8月,9月",
+        "englishName": "Hibiscus syriacus L.",
+        "family": "アオイ科",
+        "genus": "ヒビスクス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/50",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_50_image.jpg",
+        "name": "ノウゼンカズラ",
+        "where": "温室周辺,展望台周辺",
+        "when": "6月,8月,9月",
+        "englishName": "Campsis grandiflora (Thunb.)K.Schum.",
+        "family": "ノウゼンカズラ科",
+        "genus": "ノウゼンカズラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/51",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_51_image.jpg",
+        "name": "サルスベリ",
+        "where": "庭木園",
+        "when": "8月,9月",
+        "englishName": "Lagerstroemia indica L.",
+        "family": "ミソハギ科",
+        "genus": "サルスベリ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/52",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_52_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/53",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_53_image.jpg",
+        "name": "ヤマハギ",
+        "where": "花木園Ｂ",
+        "when": "7月,10月",
+        "englishName": "Lespedeza bicolor Turcz.",
+        "family": "マメ科",
+        "genus": "ハギ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/54",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_54_image.jpg",
+        "name": "Hibiscus hamabo Sieb.et Zucc.",
+        "where": "7月",
+        "when": "ハマボウ",
+        "englishName": "アオイ科",
+        "family": "ヒビスクス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/55",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_55_image.jpg",
+        "name": "キキョウ",
+        "where": "野草園",
+        "when": "7月",
+        "englishName": "Platycodon grandiflorus (Jacq.)A.DC.",
+        "family": "キキョウ科",
+        "genus": "キキョウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/56",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_56_image.jpg",
+        "name": "アメリカフヨウ",
+        "where": "市民花壇・ハーブ園",
+        "when": "8月,9月",
+        "englishName": "Hibiscus moscheutos L.",
+        "family": "アオイ科",
+        "genus": "ヒビスクス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/57",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_57_image.jpg",
+        "name": "フヨウ",
+        "where": "モデル庭園",
+        "when": "8月,9月",
+        "englishName": "Hibiscus mutabilis L.",
+        "family": "アオイ科",
+        "genus": "ヒビスクス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/58",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_58_image.jpg",
+        "name": "スイフヨウ",
+        "where": "温室周辺,温室",
+        "when": "8月,9月",
+        "englishName": "Hibiscus mutabilis L. f.versicolor Makino",
+        "family": "アオイ科",
+        "genus": "ヒビスクス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/59",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_59_image.jpg",
+        "name": "クズ",
+        "where": "花木園Ｂ",
+        "when": "9月",
+        "englishName": "Pueraria lobata (Willd.)Ohwi",
+        "family": "マメ科",
+        "genus": "クズ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/60",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_60_image.jpg",
+        "name": "ヒガンバナ",
+        "where": "針葉樹園,紅葉樹園,温室周辺",
+        "when": "9月,10月",
+        "englishName": "Lycoris radiata (L’Her)Herb.",
+        "family": "ヒガンバナ科",
+        "genus": "リコリス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/61",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_61_image.jpg",
+        "name": "キンモクセイ",
+        "where": "庭木園,水生植物園,花木園Ｃ,花木園Ａ,入口広場,花壇・バラ園",
+        "when": "10月",
+        "englishName": "Osmanthus fragrans (Thunb.)Lour. var.aurantiacus Makino",
+        "family": "モクセイ科",
+        "genus": "モクセイ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/62",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_62_image.jpg",
+        "name": "ギンモクセイ",
+        "where": "庭木園",
+        "when": "10月",
+        "englishName": "Osmanthus fragrans (Thunb.)Lour.",
+        "family": "モクセイ科",
+        "genus": "モクセイ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/63",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_63_image.jpg",
+        "name": "ウスギモクセイ",
+        "where": "庭木園",
+        "when": "10月",
+        "englishName": "Osmanthus fragrans (Thunb.)Lour. var.thunbergii Makino",
+        "family": "モクセイ科",
+        "genus": "モクセイ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/64",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_64_image.jpg",
+        "name": "フジバカマ",
+        "where": "野草園",
+        "when": "9月,10月",
+        "englishName": "Eupatorium japonicum Thunb.",
+        "family": "キク科",
+        "genus": "ヒヨドリバナ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/65",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_65_image.jpg",
+        "name": "ホトトギス",
+        "where": "水生植物園",
+        "when": "10月",
+        "englishName": "Tricyrtis hirta (Thunb.)Hook.",
+        "family": "ユリ科",
+        "genus": "ホトトギス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/66",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_66_image.jpg",
+        "name": "ダンギク",
+        "where": "野草園",
+        "when": "9月,10月",
+        "englishName": "Caryopteris incana (Thunb.ex Houtt.)Miq.",
+        "family": "クマツヅラ科",
+        "genus": "カリオプテリス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/67",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_67_image.jpg",
+        "name": "チャ",
+        "where": "庭木園",
+        "when": "10月,11月",
+        "englishName": "Camellia sinensis (L.)O.Kuntze.",
+        "family": "ツバキ科",
+        "genus": "ツバキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/68",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_68_image.jpg",
+        "name": "コバノセンナ",
+        "where": "花木園Ｃ",
+        "when": "11月",
+        "englishName": "Cassia coluteoides Collad.",
+        "family": "マメ科",
+        "genus": "カッシア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/69",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_69_image.jpg",
+        "name": "イチョウ",
+        "where": "紅葉樹園",
+        "when": "11月",
+        "englishName": "Ginkgo biloba L.",
+        "family": "イチョウ科",
+        "genus": "イチョウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/70",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_70_image.jpg",
+        "name": "イロハモミジ",
+        "where": "紅葉樹園",
+        "when": "11月",
+        "englishName": "Acer  palmatum Thunb.",
+        "family": "カエデ科",
+        "genus": "カエデ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/71",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_71_image.jpg",
+        "name": "ナンキンハゼ",
+        "where": "紅葉樹園",
+        "when": "11月",
+        "englishName": "Sapium sebiferum Roxｂ.",
+        "family": "トウダイグサ科",
+        "genus": "サピウム属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/72",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_72_image.jpg",
+        "name": "コマユミ",
+        "where": "郷土樹木園",
+        "when": "11月",
+        "englishName": "Euonymus alatus (Thunb.)Sieb. f.ciliatodentatus(Franch.et Sav.)Hiyama",
+        "family": "ニシキギ科",
+        "genus": "ニシキギ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/73",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_73_image.jpg",
+        "name": "ニシキギ",
+        "where": "花木園Ｃ",
+        "when": "4月,11月",
+        "englishName": "Euonymus alatus (Thunb.)Sieb.",
+        "family": "ニシキギ科",
+        "genus": "ニシキギ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/74",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_74_image.jpg",
+        "name": "ツワブキ",
+        "where": "水生植物園",
+        "when": "11月",
+        "englishName": "Farfugium japonicum (L.f.)Kitam.",
+        "family": "キク科",
+        "genus": "ツワブキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/75",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_75_image.jpg",
+        "name": "ハイビスカス",
+        "where": "温室",
+        "when": "1月,2月,3月,4月,5月,6月,7月,9月,10月,11月,12月",
+        "englishName": "Hibiscus L.，nom.cons.",
+        "family": "アオイ科",
+        "genus": "ヒビスクス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/76",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_76_image.jpg",
+        "name": "ウキツリボク，アブチロン",
+        "where": "温室",
+        "when": "1月,2月,3月,4月,11月,12月",
+        "englishName": "Abutilon megapotamicum (K.Spreng.)St.-Hil.et Naud.",
+        "family": "アオイ科",
+        "genus": "アブティロン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/77",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_77_image.jpg",
+        "name": "アリストロキア・ギガンテア",
+        "where": "温室",
+        "when": "5月",
+        "englishName": "Aristolochia gigantea Mart.et Zucc.",
+        "family": "ウマノスズクサ科",
+        "genus": "アリストロキア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/78",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_78_image.jpg",
+        "name": "ブーゲンビレア",
+        "where": "温室",
+        "when": "1月,2月,3月,4月,5月,6月,7月,9月,10月,11月,12月",
+        "englishName": "Bougainvillea Comm.ex Juss，nom.cons.",
+        "family": "オシロイバナ科",
+        "genus": "ブーゲンビレア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/79",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_79_image.jpg",
+        "name": "Justicia carnea Lindl.",
+        "where": "温室",
+        "when": "サンゴバナ",
+        "englishName": "キツネノマゴ科",
+        "family": "ジャスティシア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/80",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_80_image.jpg",
+        "name": "ボーモンティア・グランディフロラ",
+        "where": "温室",
+        "when": "2月,3月",
+        "englishName": "Beaumontia grandiflora (Roxb.)Wall.",
+        "family": "キョウチクトウ科",
+        "genus": "ボーモンティア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/81",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_81_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/82",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_82_image.jpg",
+        "name": "インドソケイ，プルメリア",
+        "where": "温室",
+        "when": "7月,8月",
+        "englishName": "Plumeria rubra L.",
+        "family": "キョウチクトウ科",
+        "genus": "プルメリア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/83",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_83_image.jpg",
+        "name": "ゲンペイカズラ，クレロデンドルム",
+        "where": "温室",
+        "when": "4月,5月,6月",
+        "englishName": "Clerodendrum thomsoniae Balf.",
+        "family": "クマツヅラ科",
+        "genus": "クレロデンドルム属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/84",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_84_image.jpg",
+        "name": "サガリバナ",
+        "where": "温室",
+        "when": "8月",
+        "englishName": "Barringtonia racemosa (L.)K.Spreng.",
+        "family": "サガリバナ科",
+        "genus": "バーリングトニア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/85",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_85_image.jpg",
+        "name": "月下美人（ゲッカビジン）",
+        "where": "温室",
+        "when": "6月,7月,8月,9月,10月",
+        "englishName": "Epiphyllum oxypetalum (DC.)Haw.",
+        "family": "サボテン科",
+        "genus": "エピフィルム属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/86",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_86_image.jpg",
+        "name": "夜の女王（ヨルノジョウオウ）",
+        "where": "温室",
+        "when": "5月,6月",
+        "englishName": "Selenicereus macdonaldiae (Hook.)britt.et Rose",
+        "family": "サボテン科",
+        "genus": "セレニケレウス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/87",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_87_image.jpg",
+        "name": "三角柱（サンカクチュウ）",
+        "where": "温室",
+        "when": "7月,8月",
+        "englishName": "Hylocereus guatemalensis (Eichlam)Britt.et Rose",
+        "family": "サボテン科",
+        "genus": "ヒロケレウス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/88",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_88_image.jpg",
+        "name": "白蓮閣（ビャクレンカク），ドラゴンフルーツ",
+        "where": "温室",
+        "when": "8月,9月",
+        "englishName": "Hylocereus undatus (Haw.)Britt.et Rose",
+        "family": "サボテン科",
+        "genus": "ヒロケレウス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/89",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_89_image.jpg",
+        "name": "熱帯スイレン",
+        "where": "温室",
+        "when": "6月,7月,8月,9月",
+        "englishName": "Nymphaea L.，nom.cons.",
+        "family": "スイレン科",
+        "genus": "スイレン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/90",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_90_image.jpg",
+        "name": "オオオニバス（パラグアイオニバス）",
+        "where": "温室",
+        "when": "7月,8月,9月",
+        "englishName": "Victoria cruziana Orbigny",
+        "family": "スイレン科",
+        "genus": "オオオニバス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/91",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_91_image.jpg",
+        "name": "ベニヒモノキ",
+        "where": "温室",
+        "when": "1月,2月,3月,4月,5月,6月,7月,8月,9月,10月",
+        "englishName": "Acalypha hispida Burm.f.",
+        "family": "トウダイグサ科",
+        "genus": "アカリファ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/92",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_92_image.jpg",
+        "name": "Euphorbia pulcherrima Wild.ex Klotzsch",
+        "where": "温室",
+        "when": "ポインセチア",
+        "englishName": "トウダイグサ科",
+        "family": "トウダイグサ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/93",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_93_image.jpg",
+        "name": "Passiflora caerulea L.",
+        "where": "6月,7月",
+        "when": "トケイソウ",
+        "englishName": "トケイソウ科",
+        "family": "トケイソウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/94",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_94_image.jpg",
+        "name": "キダチチョウセンアサガオ，ダチュラ",
+        "where": "温室",
+        "when": "1月",
+        "englishName": "Datura arborea L.",
+        "family": "ナス科",
+        "genus": "ダツラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/95",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_95_image.jpg",
+        "name": "ソランドラ・マクシマ",
+        "where": "温室",
+        "when": "1月",
+        "englishName": "Solandra grandiflora Swartz",
+        "family": "ナス科",
+        "genus": "ソランドラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/96",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_96_image.jpg",
+        "name": "ヤコウボク",
+        "where": "温室",
+        "when": "8月",
+        "englishName": "Cestrum nocturnum L.",
+        "family": "ナス科",
+        "genus": "ケストルム属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/97",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_97_image.jpg",
+        "name": "カエンカズラ",
+        "where": "温室",
+        "when": "1月",
+        "englishName": "Pyrostegia venusta (Ker-Gawl.)Miers",
+        "family": "ノウゼンカズラ科",
+        "genus": "ピロステギア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/98",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_98_image.jpg",
+        "name": "ゴクラクチョウカ",
+        "where": "温室",
+        "when": "7月,8月",
+        "englishName": "Strelitzia reginae Ait.",
+        "family": "バショウ科",
+        "genus": "ストレリチア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/99",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_99_image.jpg",
+        "name": "Heliconia psittacorum L.f.",
+        "where": "温室",
+        "when": "ヘリコニア・プシッタコルム",
+        "englishName": "バショウ科",
+        "family": "ヘリコニア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/100",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_100_image.jpg",
+        "name": "Strelitzia nicolai Regel et Krn.",
+        "where": "温室",
+        "when": "ストレリチア・ニコライ",
+        "englishName": "バショウ科",
+        "family": "ストレリチア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/101",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_101_image.jpg",
+        "name": "Heliconia rostrata Ruiz et Pav.",
+        "where": "温室",
+        "when": "ヘリコニア・ロストラタ",
+        "englishName": "バショウ科",
+        "family": "ヘリコニア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/102",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_102_image.jpg",
+        "name": "セイロンベンケイ",
+        "where": "温室",
+        "when": "3月",
+        "englishName": "Bryophyllum pinnatum (Lam.)Oken",
+        "family": "ベンケイソウ科",
+        "genus": "ブリオフィルム属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/103",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_103_image.jpg",
+        "name": "ヒスイカズラ",
+        "where": "温室",
+        "when": "5月",
+        "englishName": "Strongylodon macrobotrys A.Gray",
+        "family": "マメ科",
+        "genus": "ストロンギロドン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/104",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_104_image.jpg",
+        "name": "オウコチョウ",
+        "where": "温室",
+        "when": "7月,8月,9月,10月,11月",
+        "englishName": "Caesalpinia pulcherrima (L.)Swartz",
+        "family": "マメ科",
+        "genus": "カエサルピニア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/105",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_105_image.jpg",
+        "name": "ラン",
+        "where": "温室",
+        "when": "1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月",
+        "englishName": "-",
+        "family": "ラン科",
+        "genus": "-"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/106",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_106_image.jpg",
+        "name": "バラ",
+        "where": "花壇・バラ園",
+        "when": "5月,10月",
+        "englishName": "Rosa L.",
+        "family": "バラ科",
+        "genus": "バラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/107",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_107_image.jpg",
+        "name": "Calanthe discolor Lindl.",
+        "where": "温室周辺",
+        "when": "エビネ",
+        "englishName": "ラン科",
+        "family": "エビネ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/108",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_108_image.jpg",
+        "name": "-",
+        "where": "市民花壇・ハーブ園",
+        "when": "ハーブ",
+        "englishName": "-",
+        "family": "-"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/109",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_109_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/110",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_110_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/111",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_111_image.jpg",
+        "name": "ハカタユリ",
+        "where": "紅葉樹園",
+        "when": "6月",
+        "englishName": "Lilium brownii var. colchesteri",
+        "family": "ユリ科",
+        "genus": "ユリ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/112",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_112_image.jpg",
+        "name": "Dahlia imperialis",
+        "where": "針葉樹園",
+        "when": "コウテイダリア",
+        "englishName": "キク科",
+        "family": "ダリア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/113",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_113_image.jpg",
+        "name": "Prunus pendula f.plenorosea",
+        "where": "4月",
+        "when": "ヤエベニシダレ",
+        "englishName": "バラ科",
+        "family": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/114",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_114_image.jpg",
+        "name": "シャクナゲ",
+        "where": "花壇・バラ園",
+        "when": "4月",
+        "englishName": "Rhododendron　degronianum",
+        "family": "ツツジ科",
+        "genus": "ツツジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/115",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_115_image.jpg",
+        "name": "スモークツリー",
+        "where": "花木園Ａ",
+        "when": "5月,6月,7月",
+        "englishName": "Cotinus coggygria",
+        "family": "ウルシ科",
+        "genus": "ハグマノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/116",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_116_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/117",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_117_image.jpg",
+        "name": "ジャカランダ",
+        "where": "温室周辺,温室",
+        "when": "6月,7月",
+        "englishName": "Jacaranda Juss.",
+        "family": "ノウゼンカズラ科",
+        "genus": "ジャカランダ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/118",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_118_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/119",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_119_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/120",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_120_image.jpg",
+        "name": "チャンチン",
+        "where": "庭木園",
+        "when": "4月",
+        "englishName": "Cedrela sinensis",
+        "family": "センダン科",
+        "genus": "チャンチン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/121",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_121_image.jpg",
+        "name": "ライラック",
+        "where": "花壇・バラ園",
+        "when": "3月,4月",
+        "englishName": "Syringa vulgaris L.",
+        "family": "モクセイ科",
+        "genus": "シリンガ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/122",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_122_image.jpg",
+        "name": "ハンカチノキ",
+        "where": "花木園Ａ",
+        "when": "4月,5月",
+        "englishName": "Davidia involucrata Baill",
+        "family": "ダヴィディア科",
+        "genus": "ダヴィディア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/123",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_123_image.jpg",
+        "name": "ニオイバンマツリ",
+        "where": "花壇・バラ園",
+        "when": "6月",
+        "englishName": "Brunfelisia australis Benth",
+        "family": "ナス科",
+        "genus": "ブルンフェルシア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/124",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_124_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/125",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_125_image.jpg",
+        "name": "Hypericum &#039;Hidcote&#039;",
+        "where": "5月,6月",
+        "when": "ヒペリカム・ヒドコート",
+        "englishName": "オトギリソウ科",
+        "family": "ヒペリクム属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/126",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_126_image.jpg",
+        "name": "ギンバイカ",
+        "where": "温室周辺",
+        "when": "6月",
+        "englishName": "Myrtus communis L.",
+        "family": "フトモモ科",
+        "genus": "ギンバイカ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/127",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_127_image.jpg",
+        "name": "Habenaria radiata",
+        "where": "水生植物園",
+        "when": "サギソウ",
+        "englishName": "ラン科",
+        "family": "ハベナリア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/128",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_128_image.jpg",
+        "name": "カワラナデシコ",
+        "where": "野草園",
+        "when": "5月,6月",
+        "englishName": "Dianthus superbus var. longicalycinus",
+        "family": "ナデシコ科",
+        "genus": "ナデシコ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/129",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_129_image.jpg",
+        "name": "ナンバンギセル",
+        "where": "芝生広場",
+        "when": "8月,9月",
+        "englishName": "Aeginetia indica L.",
+        "family": "ハマウツボ科",
+        "genus": "ナンバンギセル属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/130",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_130_image.jpg",
+        "name": "オミナエシ",
+        "where": "野草園",
+        "when": "6月,7月,8月,9月",
+        "englishName": "Patrinia scabiosifolia Fisch.",
+        "family": "オミナエシ科",
+        "genus": "オミナエシ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/131",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_131_image.jpg",
+        "name": "オトコエシ",
+        "where": "野草園",
+        "when": "8月,9月",
+        "englishName": "Patrinia villosa",
+        "family": "オミナエシ科",
+        "genus": "オミナエシ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/132",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_132_image.jpg",
+        "name": "ムラサキシキブ",
+        "where": "郷土樹木園",
+        "when": "5月,6月",
+        "englishName": "Callicarpa japonica Thunb.",
+        "family": "ムラサキ科",
+        "genus": "ムラサキシキブ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/133",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_133_image.jpg",
+        "name": "コムラサキ",
+        "where": "野草園",
+        "when": "6月,7月",
+        "englishName": "Callicarpa dichotoma",
+        "family": "ムラサキ科",
+        "genus": "ムラサキシキブ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/134",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_134_image.jpg",
+        "name": "Callicarpa fricolor. Albifuructa",
+        "where": "6月,7月",
+        "when": "シラタマコシキブ",
+        "englishName": "広義のシソ科",
+        "family": "ムラサキシキブ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/135",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_135_image.jpg",
+        "name": "コスモス",
+        "where": "入口広場",
+        "when": "9月,10月,11月",
+        "englishName": "Cosmos bipinnatus",
+        "family": "キク科",
+        "genus": "コスモス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/136",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_136_image.jpg",
+        "name": "ススキ",
+        "where": "芝生広場",
+        "when": "10月,11月",
+        "englishName": "Miscanthus sinensis",
+        "family": "イネ科",
+        "genus": "ススキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/137",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_137_image.jpg",
+        "name": "ジュウガツザクラ",
+        "where": "花木園Ｂ",
+        "when": "1月,2月,3月,4月,11月,12月",
+        "englishName": "Autumnails&#039; P. × subihirtella f. autumnails(Makino) Koehne",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/138",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_138_image.jpg",
+        "name": "アーコレード",
+        "where": "花木園Ａ",
+        "when": "1月,2月,3月,9月,10月,11月,12月",
+        "englishName": "Prunus &#039;Accolade&#039; (Prunus sargentii × Prunus subhirtella)",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/139",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_139_image.jpg",
+        "name": "カンザキハナナ（菜の花）",
+        "where": "入口広場",
+        "when": "2月,3月",
+        "englishName": "Brassica rapa L. var. amplexicaulis Tanaka et Ono",
+        "family": "アブラナ科",
+        "genus": "アブラナ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/140",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_140_image.jpg",
+        "name": "Damnacanthus indicus",
+        "where": "野草園",
+        "when": "アリドオシ",
+        "englishName": "アカネ科",
+        "family": "アリドオシ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/141",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_141_image.jpg",
+        "name": "ヤブコウジ",
+        "where": "野草園",
+        "when": "7月",
+        "englishName": "Ardisia japonica",
+        "family": "ヤブコウジ科",
+        "genus": "ヤブコウジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/142",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_142_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/143",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_143_image.jpg",
+        "name": "Chloranthus glaber",
+        "where": "モデル庭園",
+        "when": "センリョウ",
+        "englishName": "センリョウ科",
+        "family": "センリョウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/144",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_144_image.jpg",
+        "name": "マンリョウ",
+        "where": "モデル庭園,野草園",
+        "when": "1月,2月,3月,6月,7月,12月",
+        "englishName": "Ardisia crenata",
+        "family": "ヤブコウジ科",
+        "genus": "ヤブコウジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/145",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_145_image.jpg",
+        "name": "ロウバイ",
+        "where": "モデル庭園,庭木園,花壇・バラ園",
+        "when": "1月,2月,12月",
+        "englishName": "Chimonanthus praecox",
+        "family": "ロウバイ科",
+        "genus": "ロウバイ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/146",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_146_image.jpg",
+        "name": "ハンゲショウ",
+        "where": "水生植物園",
+        "when": "4月,5月,6月",
+        "englishName": "Saururus chinensis (Lour.) Baill.",
+        "family": "ドクダミ科",
+        "genus": "ハンゲショウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/147",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_147_image.jpg",
+        "name": "ミモザアカシア",
+        "where": "花木園Ａ",
+        "when": "3月,4月",
+        "englishName": "Acacia decurrens Willd.",
+        "family": "マメ科",
+        "genus": "アカシア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/148",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_148_image.jpg",
+        "name": "マンゴー",
+        "where": "温室",
+        "when": "4月,5月",
+        "englishName": "Mangifera indica L.",
+        "family": "ウルシ科",
+        "genus": "マンゴー属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/149",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_149_image.jpg",
+        "name": "パパイア",
+        "where": "温室",
+        "when": "4月,5月,6月,7月,8月,9月,10月",
+        "englishName": "Carica papaya",
+        "family": "パパイア科",
+        "genus": "パパイア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/150",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_150_image.jpg",
+        "name": "パイナップル",
+        "where": "温室",
+        "when": "1月,8月,9月,10月,11月,12月",
+        "englishName": "Ananas comosus",
+        "family": "パイナップル科",
+        "genus": "アナナス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/151",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_151_image.jpg",
+        "name": "バナナ",
+        "where": "温室",
+        "when": "4月,5月,6月,7月,8月,9月",
+        "englishName": "Musa acuminata",
+        "family": "バショウ科",
+        "genus": "バショウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/152",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_152_image.jpg",
+        "name": "タビビトノキ",
+        "where": "温室",
+        "when": "1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月",
+        "englishName": "Ravenala madagascariensis",
+        "family": "バショウ科",
+        "genus": "タビビトノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/153",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_153_image.jpg",
+        "name": "コーヒーノキ",
+        "where": "温室",
+        "when": "1月,8月,9月,10月,11月,12月",
+        "englishName": "Coffia arabica",
+        "family": "アカネ科",
+        "genus": "コーヒーノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/154",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_154_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/155",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_155_image.jpg",
+        "name": "バニラ",
+        "where": "温室",
+        "when": "1月,7月,8月,9月,10月,11月,12月",
+        "englishName": "Vanilla planifolia",
+        "family": "ラン科",
+        "genus": "バニラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/156",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_156_image.jpg",
+        "name": "金鯱(キンシャチ)",
+        "where": "温室",
+        "when": "1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月",
+        "englishName": "Echinocactus grusonii Hildm.",
+        "family": "サボテン科",
+        "genus": "エキノカクツス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/157",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_157_image.jpg",
+        "name": "シクンシ",
+        "where": "温室",
+        "when": "5月,6月,7月,8月,9月",
+        "englishName": "Quisiqualis indica L.",
+        "family": "シクンシ科",
+        "genus": "シクンシ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/158",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_158_image.jpg",
+        "name": "オクナ・セルラタ",
+        "where": "温室",
+        "when": "9月",
+        "englishName": "Ochna serrulata",
+        "family": "オクナ科",
+        "genus": "オクナ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/159",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_159_image.jpg",
+        "name": "トケイソウ’アラタ’",
+        "where": "温室",
+        "when": "4月,5月,6月,7月,8月,9月,10月,11月,12月",
+        "englishName": "Passiflora alata Dryand.",
+        "family": "トケイソウ科",
+        "genus": "トケイソウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/160",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_160_image.jpg",
+        "name": "アセロラ",
+        "where": "温室",
+        "when": "1月,10月,11月,12月",
+        "englishName": "Malpighia glabra L.",
+        "family": "キントラノオ科",
+        "genus": "マルピーギア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/161",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_161_image.jpg",
+        "name": "ウナズキヒメフヨウ",
+        "where": "温室",
+        "when": "1月,2月,12月",
+        "englishName": "Malvaviscus arboreus var. mexicanus Schlechtend.",
+        "family": "アオイ科",
+        "genus": "マルウァウィスクス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/162",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_162_image.jpg",
+        "name": "ベンガルヤハズカズラ",
+        "where": "温室",
+        "when": "1月,2月",
+        "englishName": "Thunbergia grandiflora",
+        "family": "キツネノマゴ科",
+        "genus": "ツンベルギア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/163",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_163_image.jpg",
+        "name": "コエビソウ",
+        "where": "温室",
+        "when": "1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月",
+        "englishName": "Beloperone guttata Brandeg.",
+        "family": "キツネノマゴ科",
+        "genus": "ベロペロネ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/164",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_164_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/165",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_165_image.jpg",
+        "name": "クワ科",
+        "where": "アコウ",
+        "when": "Ficus superba var. japonica",
+        "englishName": "フィクス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/166",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_166_image.jpg",
+        "name": "アベマキ",
+        "where": "花木園Ａ",
+        "when": "4月",
+        "englishName": "Quercus variabilis Blume",
+        "family": "ブナ科",
+        "genus": "コナラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/167",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_167_image.jpg",
+        "name": "Quercus gilva Blume",
+        "where": "郷土樹木園",
+        "when": "イチイガシ",
+        "englishName": "ブナ科",
+        "family": "コナラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/168",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_168_image.jpg",
+        "name": "Quercus salicina Blume",
+        "where": "郷土樹木園,花木園Ａ",
+        "when": "ウラジロガシ",
+        "englishName": "ブナ科",
+        "family": "コナラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/169",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_169_image.jpg",
+        "name": "ウワミズザクラ",
+        "where": "花木園Ａ",
+        "when": "4月",
+        "englishName": "Prunus grayana Maxim.",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/170",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_170_image.jpg",
+        "name": "オオデマリ",
+        "where": "花木園Ａ",
+        "when": "4月,5月",
+        "englishName": "Viburnum plicatum var. plicatum",
+        "family": "スイカズラ科",
+        "genus": "ガマズミ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/171",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_171_image.jpg",
+        "name": "オオベニゴウカン",
+        "where": "温室",
+        "when": "1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月",
+        "englishName": "Calliandra haematocephala Hassk.",
+        "family": "マメ科",
+        "genus": "カリアンドラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/172",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_172_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/173",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_173_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/174",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_174_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/175",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_175_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/176",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_176_image.jpg",
+        "name": "Taraxacum platycarpum var. japonicum",
+        "where": "花木園Ａ",
+        "when": "カンサイタンポポ",
+        "englishName": "キク科",
+        "family": "タンポポ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/177",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_177_image.jpg",
+        "name": "Camptotheca acuminata Decne.",
+        "where": "紅葉樹園,芝生広場",
+        "when": "カンレンボク",
+        "englishName": "ニッサ科",
+        "family": "カンプトテカ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/178",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_178_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/179",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_179_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/180",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_180_image.jpg",
+        "name": "キワタノキ",
+        "where": "温室",
+        "when": "1月,2月,3月",
+        "englishName": "Bombax ceiba L.",
+        "family": "パンヤ科",
+        "genus": "ボンバクス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/181",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_181_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/182",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_182_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/183",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_183_image.jpg",
+        "name": "クルメツツジ",
+        "where": "花木園Ａ",
+        "when": "4月",
+        "englishName": "Rhododendron Kurume Azale hybrids",
+        "family": "ツツジ科",
+        "genus": "ツツジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/184",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_184_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/185",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_185_image.jpg",
+        "name": "コブクザクラ",
+        "where": "花木園Ａ",
+        "when": "4月,9月,10月,11月,12月",
+        "englishName": "Prunus × kobuku-zakura",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/186",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_186_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/187",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_187_image.jpg",
+        "name": "シキミ",
+        "where": "野草園,郷土樹木園,花壇・バラ園",
+        "when": "2月,3月,4月",
+        "englishName": "Illicium anisatum",
+        "family": "シキミ科",
+        "genus": "シキミ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/188",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_188_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/189",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_189_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/190",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_190_image.jpg",
+        "name": "Hamamelis mollis D. Oliver",
+        "where": "花壇・バラ園",
+        "when": "シナマンサク",
+        "englishName": "マンサク科",
+        "family": "マンサク属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/191",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_191_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/192",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_192_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/193",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_193_image.jpg",
+        "name": "Sequoia sempervirens",
+        "where": "針葉樹園",
+        "when": "センペルセコイア",
+        "englishName": "スギ科",
+        "family": "セコイア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/194",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_194_image.jpg",
+        "name": "Cycas revoluta Thunb.",
+        "where": "花壇・バラ園",
+        "when": "ソテツ",
+        "englishName": "ソテツ科",
+        "family": "ソテツ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/195",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_195_image.jpg",
+        "name": "ソラヌム・ラントネッティ",
+        "where": "温室周辺",
+        "when": "5月,6月,7月,8月,9月,10月",
+        "englishName": "Solanum rantonnetii",
+        "family": "ナス科",
+        "genus": "ソラヌム属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/196",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_196_image.jpg",
+        "name": "タラヨウ",
+        "where": "郷土樹木園",
+        "when": "4月",
+        "englishName": "Ilex latifolia",
+        "family": "モチノキ科",
+        "genus": "モチノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/197",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_197_image.jpg",
+        "name": "トキワマンサク",
+        "where": "水生植物園",
+        "when": "2月,3月,4月,5月",
+        "englishName": "Loropetalum chinense",
+        "family": "マンサク科",
+        "genus": "トキワマンサク属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/198",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_198_image.jpg",
+        "name": "トサミズキ",
+        "where": "温室周辺",
+        "when": "2月,3月",
+        "englishName": "Corylopsis spicata Sieb.",
+        "family": "マンサク科",
+        "genus": "トサミズキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/199",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_199_image.jpg",
+        "name": "トックリキワタ",
+        "where": "温室",
+        "when": "11月,12月",
+        "englishName": "Ceiba speciosa",
+        "family": "パンヤ科",
+        "genus": "パンヤノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/200",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_200_image.jpg",
+        "name": "ナンテン",
+        "where": "庭木園",
+        "when": "5月,6月,7月",
+        "englishName": "Nandina domestica",
+        "family": "メギ科",
+        "genus": "ナンテン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/201",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_201_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/202",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_202_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/203",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_203_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/204",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_204_image.jpg",
+        "name": "ネコノツメ",
+        "where": "温室周辺",
+        "when": "4月,5月",
+        "englishName": "Macfadyena unguis-cati",
+        "family": "ノウゼンカズラ科",
+        "genus": "マクファディエナ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/205",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_205_image.jpg",
+        "name": "ノシラン",
+        "where": "野草園",
+        "when": "7月,8月",
+        "englishName": "Ophiopogon jaburan (Kunth) Lodd.",
+        "family": "ユリ科",
+        "genus": "ジャノヒゲ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/206",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_206_image.jpg",
+        "name": "ハナイカダ",
+        "where": "水生植物園",
+        "when": "4月,6月",
+        "englishName": "Helwingia japonica",
+        "family": "ミズキ科",
+        "genus": "ハナイカダ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/207",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_207_image.jpg",
+        "name": "ハラン",
+        "where": "野草園,花木園Ａ",
+        "when": "1月,2月",
+        "englishName": "Aspidistra elatior Blume",
+        "family": "ユリ科",
+        "genus": "ハラン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/208",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_208_image.jpg",
+        "name": "Osmanthus hetrophyllus",
+        "where": "郷土樹木園,花壇・バラ園",
+        "when": "ヒイラギ",
+        "englishName": "モクセイ科",
+        "family": "モクセイ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/209",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_209_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/210",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_210_image.jpg",
+        "name": "ヒメシャラ",
+        "where": "野草園",
+        "when": "6月",
+        "englishName": "Stewartia monadelpha Sieb. et Zucc",
+        "family": "ツバキ科",
+        "genus": "ナツツバキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/211",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_211_image.jpg"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/212",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_212_image.jpg",
+        "name": "Comphocarpus fruticosus",
+        "where": "野草園",
+        "when": "フウセントウワタ",
+        "englishName": "ガガイモ科",
+        "family": "ゴンフォカルプス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/213",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_213_image.jpg",
+        "name": "フッキソウ",
+        "where": "庭木園",
+        "when": "2月,3月,4月",
+        "englishName": "Pachysandra terminalis Sieb. et Zucc",
+        "family": "ツゲ科",
+        "genus": "フッキソウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/214",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_214_image.jpg",
+        "name": "ブルーベリー",
+        "where": "市民花壇・ハーブ園",
+        "when": "3月,4月,5月",
+        "englishName": "Vaccinium L.",
+        "family": "ツツジ科",
+        "genus": "スノキ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/215",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_215_image.jpg",
+        "name": "Lithocarpus edulis (Makino) Nakai",
+        "where": "モデル庭園,花壇・バラ園",
+        "when": "マテバシイ",
+        "englishName": "ブナ科",
+        "family": "マテバシイ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/216",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_216_image.jpg",
+        "name": "ミヤギノハギ",
+        "where": "花木園Ｂ",
+        "when": "9月,10月",
+        "englishName": "Lespedeza thunbergii (DC.) Nakai",
+        "family": "マメ科",
+        "genus": "ハギ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/217",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_217_image.jpg",
+        "name": "ムクロジ",
+        "where": "花木園Ｃ",
+        "when": "6月",
+        "englishName": "Sapindus mukorossi Gaertn.",
+        "family": "ムクロジ科",
+        "genus": "ムクロジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/218",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_218_image.jpg",
+        "name": "Acer nikoense Maxim.",
+        "where": "モデル庭園,紅葉樹園",
+        "when": "メグスリノキ",
+        "englishName": "カエデ科",
+        "family": "カエデ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/219",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_219_image.jpg",
+        "name": "Metasequoia glyptostroboides",
+        "where": "針葉樹園",
+        "when": "メタセコイア",
+        "englishName": "スギ科",
+        "family": "メタセコイア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/220",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_220_image.jpg",
+        "name": "モクゲンジ",
+        "where": "花木園Ａ",
+        "when": "6月,7月",
+        "englishName": "Koelreuteria paniculata Laxm.",
+        "family": "ムクロジ科",
+        "genus": "モクゲンジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/221",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_221_image.jpg",
+        "name": "Liquidambar styraciflua L.",
+        "where": "芝生広場",
+        "when": "モミジバフウ(アメリカフウ)",
+        "englishName": "マンサク科",
+        "family": "フウ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/222",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_222_image.jpg",
+        "name": "Liriope platyphylla",
+        "where": "野草園,水生植物園,針葉樹園",
+        "when": "ヤブラン",
+        "englishName": "ユリ科",
+        "family": "ヤブラン属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/223",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_223_image.jpg",
+        "name": "ヤマコウバシ",
+        "where": "花壇・バラ園",
+        "when": "1月,2月,12月",
+        "englishName": "Lindera glauca",
+        "family": "クスノキ科",
+        "genus": "クロモジ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/224",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_224_image.jpg",
+        "name": "ヤマモモ",
+        "where": "モデル庭園,庭木園,花壇・バラ園",
+        "when": "4月",
+        "englishName": "Myrica rubra Sieb. et Zucc.",
+        "family": "ヤマモモ科",
+        "genus": "ヤマモモ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/225",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_225_image.jpg",
+        "name": "ユズリハ",
+        "where": "モデル庭園,庭木園",
+        "when": "4月",
+        "englishName": "Daphniphyllum macropodum",
+        "family": "ユズリハ科",
+        "genus": "ユズリハ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/226",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_226_image.jpg",
+        "name": "リコリス",
+        "where": "野草園,針葉樹園,花木園Ａ",
+        "when": "8月,9月,10月",
+        "englishName": "Lycoris Herb.",
+        "family": "ヒガンバナ科",
+        "genus": "リコリス属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/227",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_227_image.jpg",
+        "name": "サトザクラ‘普賢象’",
+        "where": "花木園Ａ,西展望台",
+        "when": "4月",
+        "englishName": "Prunus lannesiana ‘Alborosea’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/228",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_228_image.jpg",
+        "name": "サトザクラ‘思川’",
+        "where": "西展望台",
+        "when": "4月",
+        "englishName": "Prunus × subhirtella ‘Omoigawa’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/229",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_229_image.jpg",
+        "name": "サトザクラ‘鬱金’",
+        "where": "花木園Ａ,西展望台",
+        "when": "4月",
+        "englishName": "Prunus lannesiana ‘Grandiflora’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/230",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_230_image.jpg",
+        "name": "サトザクラ‘関山’",
+        "where": "花木園Ｃ,花木園Ａ",
+        "when": "4月",
+        "englishName": "Prunus lannesiana ‘Sekiyama’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/231",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_231_image.jpg",
+        "name": "サトザクラ‘兼六園菊桜’",
+        "where": "花木園Ｃ,花木園Ａ",
+        "when": "4月",
+        "englishName": "Prunus lannesiana ‘Sphaerantha’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/232",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_232_image.jpg",
+        "name": "サトザクラ‘御衣黄’",
+        "where": "花木園Ａ,西展望台",
+        "when": "4月",
+        "englishName": "Prunus lannesiana ‘Gioiko’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/233",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_233_image.jpg",
+        "name": "サトザクラ‘天の川’",
+        "where": "花木園Ａ",
+        "when": "4月",
+        "englishName": "Prunus lannesiana ‘Erecta’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/234",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_234_image.jpg",
+        "name": "サトザクラ‘紅豊’",
+        "where": "花木園Ａ,南公園",
+        "when": "4月",
+        "englishName": "Prunus lannesiana ‘Beni-yutaka’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/235",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_235_image.jpg",
+        "name": "サトザクラ‘一葉’",
+        "where": "花木園Ａ,西展望台",
+        "when": "4月",
+        "englishName": "Prunus lannesiana ‘Hisakura’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/236",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_236_image.jpg",
+        "name": "サトザクラ‘八重紅大島’",
+        "where": "西展望台",
+        "when": "4月",
+        "englishName": "Prunus lannesiana var. speciosa ‘Yaebeni-ohshima’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/237",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_237_image.jpg",
+        "name": "サトザクラ‘松月’",
+        "where": "西展望台",
+        "when": "4月",
+        "englishName": "Prunus lannesiana ‘Superba’",
+        "family": "バラ科",
+        "genus": "サクラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/238",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_238_image.jpg",
+        "name": "カミヤツデ",
+        "where": "動物園",
+        "when": "3月,4月,5月,6月,7月,8月,9月,10月,11月",
+        "englishName": "Tetrapanax papyrifer (Hook.) K. Koch",
+        "family": "ウコギ科",
+        "genus": "カミヤツデ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/239",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_239_image.jpg",
+        "name": "シマトネリコ",
+        "where": "動物園",
+        "when": "5月",
+        "englishName": "Fraxinus griffithii",
+        "family": "モクセイ科",
+        "genus": "トネリコ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/240",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_240_image.jpg",
+        "name": "トベラ",
+        "where": "花木園Ｂ,水生植物園,花木園Ｃ,展望台周辺,花壇・バラ園,花見広場,動物園",
+        "when": "4月,5月,6月",
+        "englishName": "Pittosporum tobira",
+        "family": "トベラ科",
+        "genus": "トベラ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/241",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_241_image.jpg",
+        "name": "Alocasia odora K. Koch",
+        "where": "動物園",
+        "when": "クワズイモ",
+        "englishName": "サトイモ科",
+        "family": "アロカシア属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/242",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_242_image.jpg",
+        "name": "Platycarya strobilacea S. et Z.",
+        "where": "動物園",
+        "when": "ノグルミ",
+        "englishName": "クルミ科",
+        "family": "ノグルミ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/243",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_243_image.jpg",
+        "name": "マーガレット（モクシュンギク）",
+        "where": "入口広場",
+        "when": "4月,5月",
+        "englishName": "Argyranthemum frutescens",
+        "family": "キク科",
+        "genus": "アルギランセマム（モクシュンギク）属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/244",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_244_image.jpg",
+        "name": "ヒマワリ",
+        "where": "入口広場",
+        "when": "7月,8月",
+        "englishName": "Helianthus annuus",
+        "family": "キク科",
+        "genus": "ヒマワリ属"
+    },
+    {
+        "uri": "https://botanical-garden.city.fukuoka.lg.jp/plants/detail/245",
+        "image": "https://botanical-garden.city.fukuoka.lg.jp/index/files/Plant/0/Plant_245_image.jpg",
+        "name": "ブルーサルビア（サルビア・ファリナセア）",
+        "where": "入口広場",
+        "when": "5月,6月,7月",
+        "englishName": "Salvia farinacea",
+        "family": "シソ科",
+        "genus": "サルビア属"
+    }
+]
